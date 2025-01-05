@@ -1,2 +1,2 @@
 https://dead-poets-society.net/
-made in HTML & CSS
+made in HTML & CSS.
